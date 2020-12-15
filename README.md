@@ -3,7 +3,7 @@
 
 # <font color='green'> <center> etape d'extraction et cleaning data
 
-![grab-landing-page](https://github.com/HajerMhimdi/TweetsClusteringProject_MhimdiHajer/edit/main/Extracting_and_cleaningData.gif)
+![grab-landing-page](Extracting_and_cleaningData.gif)
 
 # <font color='green'> <center>etape de clustering
 
@@ -11,10 +11,10 @@
 
 ### <font color='blue'> <center> Word2Vec method and cosinus Similarity
 
-![grab-landing-page](https://github.com/HajerMhimdi/TweetsClusteringProject_MhimdiHajer/edit/main/methode1_word2Vec.gif)
+![grab-landing-page](/methode1_word2Vec.gif)
 
 ### <font color='blue'> <center> Mini batch Kmeans nombre Cluster =30 (exemple)
 
-![grab-landing-page](https://github.com/HajerMhimdi/TweetsClusteringProject_MhimdiHajer/edit/main/MiniBatchKmeans30.gif)
+![grab-landing-page](MiniBatchKmeans30.gif)
 
 
