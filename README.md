@@ -14,7 +14,7 @@ lien binder pour l'extraction des API Tweets (TweetsClusteringProject_HajerMhimd
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HajerMhimdi/TweetsClusteringProject_MhimdiHajer.git/main?filepath=TweetExtraction.ipynb)
 
 
-# <font color='green'> <center> etape d'extraction et cleaning data
+# <font color='green'> <center> vue globale etape d'extraction et cleaning data
 
 ![grab-landing-page](Extracting_and_cleaningData.gif)
 
@@ -26,7 +26,7 @@ lien binder pour l'extraction des API Tweets (TweetsClusteringProject_HajerMhimd
 
 ![grab-landing-page](/methode1_word2Vec.gif)
 
-### <font color='blue'> <center> Mini batch Kmeans nombre Cluster =30 (exemple)
+### <font color='blue'> <center> Mini batch Kmeans nombre Cluster =25 (exemple)
 
 ![grab-landing-page](MiniBatchKmeans30.gif)
 
