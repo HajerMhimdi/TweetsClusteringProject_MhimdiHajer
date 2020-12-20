@@ -37,3 +37,4 @@ http://www.nltk.org/api/nltk.cluster.html
 http://www.pitt.edu/~naraehan/presentation/word2vec-try.html
 https://rdrr.io/cran/ClusterR/man/MiniBatchKmeans.html
 https://www.programcreek.com/python/example/103492/sklearn.cluster.MiniBatchKMeans
+https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/?fbclid=IwAR3FNrnHrVbVslbuEwjPW9tsCW2GsVpPVTw4qWmBe7ypNwL1c_Yi1b_CdKo
