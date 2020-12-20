@@ -31,3 +31,9 @@
 ![grab-landing-page](MiniBatchKmeans30.gif)
 
 
+### Références:
+https://www.youtube.com/results?search_query=sklearn+python
+http://www.nltk.org/api/nltk.cluster.html
+http://www.pitt.edu/~naraehan/presentation/word2vec-try.html
+https://rdrr.io/cran/ClusterR/man/MiniBatchKmeans.html
+https://www.programcreek.com/python/example/103492/sklearn.cluster.MiniBatchKMeans
